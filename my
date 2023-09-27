@@ -1,0 +1,37 @@
+<!doctype html>
+<html></html>
+  <head>
+    <meta charset="5">
+    <title>mygames</title>
+    <body>honkay.star real
+       <heder>
+        <h1>my</h1>
+       </heder>
+       <nav>
+        <ul>
+          <li>
+             <a href="index.html">html</a>
+             <ol>
+               <li>benettisthebest</li>
+               <li>Dottore</li>
+             </ol>
+          </li>
+          <li>/li>
+        </ul>
+       </nav>
+
+    <main>
+      <article>
+
+        <h2>index</h2>
+      <p>все новости по ГЕНШИН ИНФРКТУ смотри на
+        <a href=>"https://genshin.hoyoverse.com/ru/home">GENSHIN</a>
+      </p>
+      </article>
+
+     </main>
+<footer>
+2025
+</footer>
+    </body>
+   </html>
